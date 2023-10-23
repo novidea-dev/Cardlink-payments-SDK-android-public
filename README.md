@@ -19,14 +19,7 @@ Android API 26+
 ## Installation via Gradle
 Add repository
 ```groovy
-maven {
-    name = "GitHubPackages"
-    url = uri("https://maven.pkg.github.com/novidea-dev/Cardlink-payments-SDK-android-public")
-    credentials {
-        username = "username"
-        password = "password|token"
-    }
-}
+maven { url "https://maven.pkg.github.com/novidea-dev/Cardlink-payments-SDK-android-public") }
 ```
 
 Add dependency to `build.gradle`:
