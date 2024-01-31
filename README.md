@@ -86,6 +86,7 @@ data class PaymentResponse(
     val paymentReference: String? 
 ) 
 ```
+![Payment_Link_1_gr](https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/89dfe21f-9918-416c-a80d-8ca1326d1964)
 
 #### Example
 ```kotlin
