@@ -152,7 +152,8 @@ Recurring end date with format YYYYMMDD. This is mandatory if recurring frequenc
 <img width="599" alt="card_delete" src="https://user-images.githubusercontent.com/9013629/230711561-ab8d7c36-bfa0-4249-abc5-f7fd9a747670.png">
 
 ### Instalments
-<img width="1218" alt="instalments" src="https://user-images.githubusercontent.com/9013629/230711574-da691689-804b-4c39-830a-b656d1e1809a.png">
+<img width="1218" alt="instalments" src="https://user-images.githubusercontent.com/9013629/230711574-da691689-804b-4c39-830a-b656d1e1809a.png![Payment_Link_1_gr](https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/65f02ad8-bdb5-43d5-b964-03b4c78b2c2a)
+ ">
 
 ## License
 Cardlink Payments SDK for Android is released under the MIT license. [See LICENSE](/LICENSE.md) for details.
