@@ -2,7 +2,7 @@
 <p align="center"><img src="logo.png" alt="Cardlink logo" /></p>
 
 ## Introduction
-Cardlink Payments SDK for Android is a comprehensive, easy-to-integrate solution specifically designed for eCommerce applications on the Android platform. This powerful SDK enables seamless processing of payments through various methods, such as Credit Cards, IRIS Online Payments, and PayPal. It aims to provide your customers with a smooth and secure transaction experience, while also offering developers a straightforward integration process.
+Cardlink Payments SDK for Android is a comprehensive, easy-to-integrate solution specifically designed for eCommerce applications on the Android platform. It aims to provide your customers with a smooth and secure transaction experience, while also offering developers a straightforward integration process.
 Also, it enables users to conveniently store their credit cards on secure Cardlink servers, allowing for seamless reuse without re-entering card information multiple times. As the cards are never retained on the user's device and encrypted card data is transmitted to the server only once, the SDK delivers heightened security while simultaneously enhancing user experience.
 Read on for more details on the integration process and sample code to get you started with the Cardlink Android Payments SDK. We look forward to making your eCommerce application more powerful, secure, and user-friendly.
 
