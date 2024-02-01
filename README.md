@@ -86,7 +86,6 @@ data class PaymentResponse(
     val paymentReference: String? 
 ) 
 ```
-![Payment_Link_1_gr](https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/89dfe21f-9918-416c-a80d-8ca1326d1964)
 
 #### Example
 ```kotlin
@@ -131,28 +130,22 @@ Recurring end date with format YYYYMMDD. This is mandatory if recurring frequenc
 
 ## Flows
 ### Successful payment flow (existing card)
-<img width="1210" alt="payment_success" src="https://user-images.githubusercontent.com/9013629/230711410-f97cf837-5d9a-4ba8-903d-7f749d90c85d.png">
+<img width="900" alt="payment_success" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/e0883f7f-1d79-41e1-859a-ff6c1a66986c">
 
 ### Unsuccessful payment flow (existing card)
-<img width="1206" alt="payment_failure" src="https://user-images.githubusercontent.com/9013629/230711436-81a1a30a-d75b-4959-88be-0b58dd5eebe5.png">
-
-### IRIS payment
-<img width="287" alt="iris" src="https://user-images.githubusercontent.com/9013629/230711478-e9d970f5-31c8-4514-9439-7924a56c39fb.png">
-
-### Paypal payment
-<img width="287" alt="paypal" src="https://user-images.githubusercontent.com/9013629/230711485-369c13eb-afef-48da-8222-4290d45103f5.png">
+<img width="900" alt="payment_failure" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/0c36e104-08be-4819-8002-ee79d39372fb">
 
 ### Payment with new card
-<img width="911" alt="card_add" src="https://user-images.githubusercontent.com/9013629/230711532-9d78770c-c25c-43d0-8639-789a8a3648bf.png">
+<img width="550" alt="card_add" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/2218094c-fac4-41c1-91f8-54c0c7bc2f5a">
 
 ### Add card with NFC
-<img width="1221" alt="card_nfc" src="https://user-images.githubusercontent.com/9013629/230711551-ace94c73-6c24-4352-94ce-21f50d691095.png">
+<img width="900" alt="card_nfc" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/5e786b68-77a0-4dea-82d0-3908ff8e3e05">
 
 ### Delete card
-<img width="599" alt="card_delete" src="https://user-images.githubusercontent.com/9013629/230711561-ab8d7c36-bfa0-4249-abc5-f7fd9a747670.png">
+<img width="250" alt="card_delete" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/d01de27d-ab87-498f-84b4-b5253f93c816">
 
 ### Instalments
-<img width="1218" alt="instalments" src="https://user-images.githubusercontent.com/9013629/230711574-da691689-804b-4c39-830a-b656d1e1809a.png">
+<img width="900" alt="instalments" src="https://github.com/novidea-dev/Cardlink-payments-SDK-android-public/assets/110978695/48d41ce3-716d-4aad-b6f9-c94a5fce85da">
 
 ## License
 Cardlink Payments SDK for Android is released under the MIT license. [See LICENSE](/LICENSE.md) for details.
